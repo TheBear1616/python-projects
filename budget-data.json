@@ -1,0 +1,13 @@
+{
+    "initialBudget": 100.0,
+    "expenses": [
+        {
+            "description": "Pizza",
+            "amount": 25.0
+        },
+        {
+            "description": "Car Fuel",
+            "amount": 57.0
+        }
+    ]
+}
